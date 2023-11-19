@@ -1,5 +1,6 @@
 # 100DaysofCode
 Round 1
+
 My first attempt at 100 days of code: code for an hour daily.
 
 # Plan (draft):
